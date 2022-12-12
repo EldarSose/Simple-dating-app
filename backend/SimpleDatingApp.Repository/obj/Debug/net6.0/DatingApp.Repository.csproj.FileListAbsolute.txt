@@ -1,0 +1,14 @@
+C:\Users\WIN10\Desktop\Simple-dating-app\backend\SimpleDatingApp.Repository\obj\Debug\net6.0\DatingApp.Repository.csproj.AssemblyReference.cache
+C:\Users\WIN10\Desktop\Simple-dating-app\backend\SimpleDatingApp.Repository\obj\Debug\net6.0\DatingApp.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WIN10\Desktop\Simple-dating-app\backend\SimpleDatingApp.Repository\obj\Debug\net6.0\DatingApp.Repository.AssemblyInfoInputs.cache
+C:\Users\WIN10\Desktop\Simple-dating-app\backend\SimpleDatingApp.Repository\obj\Debug\net6.0\DatingApp.Repository.AssemblyInfo.cs
+C:\Users\WIN10\Desktop\Simple-dating-app\backend\SimpleDatingApp.Repository\obj\Debug\net6.0\DatingApp.Repository.csproj.CoreCompileInputs.cache
+C:\Users\WIN10\Desktop\Simple-dating-app\backend\SimpleDatingApp.Repository\bin\Debug\net6.0\DatingApp.Repository.deps.json
+C:\Users\WIN10\Desktop\Simple-dating-app\backend\SimpleDatingApp.Repository\bin\Debug\net6.0\DatingApp.Repository.runtimeconfig.json
+C:\Users\WIN10\Desktop\Simple-dating-app\backend\SimpleDatingApp.Repository\bin\Debug\net6.0\DatingApp.Repository.dll
+C:\Users\WIN10\Desktop\Simple-dating-app\backend\SimpleDatingApp.Repository\bin\Debug\net6.0\DatingApp.Repository.pdb
+C:\Users\WIN10\Desktop\Simple-dating-app\backend\SimpleDatingApp.Repository\obj\Debug\net6.0\DatingApp.Repository.dll
+C:\Users\WIN10\Desktop\Simple-dating-app\backend\SimpleDatingApp.Repository\obj\Debug\net6.0\refint\DatingApp.Repository.dll
+C:\Users\WIN10\Desktop\Simple-dating-app\backend\SimpleDatingApp.Repository\obj\Debug\net6.0\DatingApp.Repository.pdb
+C:\Users\WIN10\Desktop\Simple-dating-app\backend\SimpleDatingApp.Repository\obj\Debug\net6.0\DatingApp.Repository.genruntimeconfig.cache
+C:\Users\WIN10\Desktop\Simple-dating-app\backend\SimpleDatingApp.Repository\obj\Debug\net6.0\ref\DatingApp.Repository.dll

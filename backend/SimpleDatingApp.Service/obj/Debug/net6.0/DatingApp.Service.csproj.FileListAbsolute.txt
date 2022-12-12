@@ -1,0 +1,12 @@
+C:\Users\WIN10\Desktop\Simple-dating-app\backend\SimpleDatingApp.Service\bin\Debug\net6.0\DatingApp.Service.deps.json
+C:\Users\WIN10\Desktop\Simple-dating-app\backend\SimpleDatingApp.Service\bin\Debug\net6.0\DatingApp.Service.dll
+C:\Users\WIN10\Desktop\Simple-dating-app\backend\SimpleDatingApp.Service\bin\Debug\net6.0\DatingApp.Service.pdb
+C:\Users\WIN10\Desktop\Simple-dating-app\backend\SimpleDatingApp.Service\obj\Debug\net6.0\DatingApp.Service.csproj.AssemblyReference.cache
+C:\Users\WIN10\Desktop\Simple-dating-app\backend\SimpleDatingApp.Service\obj\Debug\net6.0\DatingApp.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WIN10\Desktop\Simple-dating-app\backend\SimpleDatingApp.Service\obj\Debug\net6.0\DatingApp.Service.AssemblyInfoInputs.cache
+C:\Users\WIN10\Desktop\Simple-dating-app\backend\SimpleDatingApp.Service\obj\Debug\net6.0\DatingApp.Service.AssemblyInfo.cs
+C:\Users\WIN10\Desktop\Simple-dating-app\backend\SimpleDatingApp.Service\obj\Debug\net6.0\DatingApp.Service.csproj.CoreCompileInputs.cache
+C:\Users\WIN10\Desktop\Simple-dating-app\backend\SimpleDatingApp.Service\obj\Debug\net6.0\DatingApp.Service.dll
+C:\Users\WIN10\Desktop\Simple-dating-app\backend\SimpleDatingApp.Service\obj\Debug\net6.0\refint\DatingApp.Service.dll
+C:\Users\WIN10\Desktop\Simple-dating-app\backend\SimpleDatingApp.Service\obj\Debug\net6.0\DatingApp.Service.pdb
+C:\Users\WIN10\Desktop\Simple-dating-app\backend\SimpleDatingApp.Service\obj\Debug\net6.0\ref\DatingApp.Service.dll
